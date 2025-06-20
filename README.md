@@ -11,8 +11,8 @@
 
 - 📫 How to reach me **dhirendrasinghkushinagar719@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1C2rLKut4HkWkOSh6MxPI3TWodm7h1ysYUQ4j_t6rUf8/edit?usp=sharing](https://docs.google.com/document/d/1C2rLKut4HkWkOSh6MxPI3TWodm7h1ysYUQ4j_t6rUf8/edit?usp=sharing)
-
+- 📄 Know about my experiences [https://docs.google.com/document/d/1C2rLKut4HkWkOSh6MxPI3TWodm7h1ysYUQ4j_t6rUf8/edit?usp=sharing]
+  https://drive.google.com/file/d/12bT9PuTUV-FmBDSuGRgZawKRHWyRGKFR/view?usp=sharing
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dkraja566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dkraja566" height="30" width="40" /></a>
