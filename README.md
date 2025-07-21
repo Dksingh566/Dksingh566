@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [StartupX](https://startupx.netlify.app/)
 
-- 🌱 I’m currently learning **Next.js,Type-script,Firebase**
+- 🌱 I’m currently learning **Type-script,Firebase**
 
 - 👨‍💻 All of my projects are available at [https://dk566-portfolio.netlify.app/](https://dk566-portfolio.netlify.app/)
 
